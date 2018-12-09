@@ -1,11 +1,11 @@
 # desburito
 some random student website for revision resources and stuff.
 
-Powered by bootstrap
-
 https://desburito.com
-#todos (NOT VERY SPECIFIC HAHA):
+# todos (not very specific haha):
 - [ ] More content
 - [ ] Better front page
 - [ ] Enable search for relevant info
 - [ ] More improvements
+
+## Powered by bootstrap 
