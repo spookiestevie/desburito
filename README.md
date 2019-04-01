@@ -5,7 +5,7 @@ https://desburito.com
 # todos (not very specific haha):
 - [ ] More content
 - [x] Better front page
-- [ ] Firebase backend for user authentication.
+- [ ] [Firebase](https://firebase.google.com/docs/web/setup) backend for user authentication. 
 - [ ] Enable search for relevant info
 - [ ] More improvements
 
